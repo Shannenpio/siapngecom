@@ -242,7 +242,7 @@ button {
         position: absolute;
         top: 23vw;
         right: 0;
-        background-image: url("../images/window-mobile.png");
+        background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/window-mobile.png");
         background-size: cover;
         background-repeat: no-repeat;
         bottom: 0;
@@ -357,7 +357,7 @@ button {
     top: -50px;
     background-position: left top;
     background-size: 100% 100%;
-    background-image: url("../images/left-top-white-space.png"); }
+    background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/left-top-white-space.png"); }
   @media (max-width: 991px) {
     #upper_left {
       display: none; }
@@ -384,7 +384,7 @@ button {
         background-position: center;
         background-size: cover; }
       #upper_left .image {
-        background-image: url("../images/left-top-white-space-mobile.png"); } }
+        background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/left-top-white-space-mobile.png"); } }
 
 #upper_right {
   position: absolute !important;
@@ -410,7 +410,7 @@ button {
   #upper_right .image {
     background-position: right top;
     background-size: 100% 100%;
-    background-image: url("../images/right-top-white-space.png"); }
+    background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/right-top-white-space.png"); }
   @media (max-width: 991px) {
     #upper_right {
       display: none; }
@@ -423,7 +423,7 @@ button {
       width: 80px;
       right: -0%; }
       #upper_right .image {
-        background-image: url("../images/right-top-white-space-mobile.png"); } }
+        background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/right-top-white-space-mobile.png"); } }
 
 #lower_left {
   position: absolute !important;
@@ -449,7 +449,7 @@ button {
   #lower_left .image {
     background-position: left bottom;
     background-size: 100% 100%;
-    background-image: url("../images/left-bottom-white-space.png"); }
+    background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/left-bottom-white-space.png"); }
   @media (max-width: 991px) {
     #lower_left {
       display: none; }
@@ -479,7 +479,7 @@ button {
         background-position: center;
         background-size: cover; }
       #lower_left .image {
-        background-image: url("../images/left-bottom-white-space-mobile.png"); } }
+        background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/left-bottom-white-space-mobile.png"); } }
 
 #lower_right {
   width: 51.4vw;
@@ -505,7 +505,7 @@ button {
   #lower_right .image {
     background-position: right bottom;
     background-size: 100% 100%;
-    background-image: url("../images/right-bottom-white-space.png"); }
+    background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/right-bottom-white-space.png"); }
   @media (max-width: 991px) {
     #lower_right {
       display: none; }
@@ -824,16 +824,16 @@ button {
     background-position: top;
     z-index: 2; }
     #know-place .image.multiple-image-section {
-      background-image: url("../images/know-place.png"); }
+      background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/know-place.png"); }
       @media (max-width: 574px) {
         #know-place .image.multiple-image-section {
-          background-image: url("../images/full-transparent.png");
+          background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/full-transparent.png");
           opacity: .7; } }
   #know-place:after {
     content: " ";
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("../images/bg-blue.png");
+    background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/bg-blue.png");
     opacity: 1;
     position: absolute;
     top: -5px;
@@ -860,7 +860,7 @@ button {
       background-position: center;
       background-size: cover; }
     #know-place:after {
-      background-image: url("../images/bg-blue-mobile.png"); } }
+      background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/bg-blue-mobile.png"); } }
   @media (max-width: 450px) {
     #know-place {
       /* &:before{
@@ -1036,7 +1036,7 @@ button {
       #step-email .icon {
         width: 33vw; } }
   #step-email .inner-background {
-    background-image: url(../images/yellow-email.png);
+    background-image: url(https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/yellow-email.png);
     left: 0;
     right: 0;
     top: 0; }
@@ -1066,13 +1066,13 @@ button {
         width: 27vw;
         float: right; } }
   #step-phone .inner-background {
-    background-image: url(../images/yellow-phone.png);
+    background-image: url(https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/yellow-phone.png);
     left: 0;
     right: 0;
     width: 100%; }
     @media (max-width: 574px) {
       #step-phone .inner-background {
-        background-image: url(../images/yellow-phone-mobile.png); } }
+        background-image: url(https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/yellow-phone-mobile.png); } }
   #step-phone .inner-click {
     position: absolute;
     top: 5vw;
@@ -1121,7 +1121,7 @@ button {
       #step-website .icon {
         width: 47vw; } }
   #step-website .inner-background {
-    background-image: url(../images/yellow-website.png);
+    background-image: url(https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/yellow-website.png);
     right: 0;
     top: 0; }
   #step-website .inner-click {
@@ -1356,7 +1356,7 @@ footer {
   padding: 30px !important;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-image: url("../images/bg-result.png");
+  background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/bg-result.png");
   -webkit-box-shadow: -5px 3px 31px -8px #8c828c;
   -moz-box-shadow: -5px 3px 31px -8px #8c828c;
   box-shadow: -5px 3px 31px -8px #8c828c;
@@ -1545,7 +1545,7 @@ footer {
   color: white;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("../images/education.png"); }
+  background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/education.png"); }
   #education p {
     font-size: 21px;
     font-family: 'comfortaa-bold'; }
@@ -1592,7 +1592,7 @@ footer {
         height: 124px;
         background-repeat: no-repeat;
         background-size: cover;
-        background-image: url("../images/education-bottom-mobile.png"); }
+        background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/education-bottom-mobile.png"); }
       #education .title {
         padding-top: 20px;
         padding-bottom: 15px;
@@ -1614,7 +1614,7 @@ footer {
     left: 0;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../images/macbook.png);
+    background-image: url(https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/macbook.png);
     width: 100%;
     height: 100%;
     z-index: 0;
@@ -1693,7 +1693,7 @@ footer {
       bottom: 0;
       background-repeat: no-repeat;
       background-size: cover;
-      background-image: url(../images/y_thumbnail.png);
+      background-image: url(https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/y_thumbnail.png);
       opacity: 1;
       width: 50%;
       height: 100%; }
@@ -1761,10 +1761,10 @@ footer {
         height: 255px;
         background-repeat: no-repeat;
         background-size: cover;
-        background-image: url("../images/education-right-mobile.png");
+        background-image: url("https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/education-right-mobile.png");
         z-index: -1; }
       #education-video:before {
-        background-image: url(../images/macbook-mobile.png); } }
+        background-image: url(https://cdn.statically.io/gh/Shannenpio/siapngecom/4a817d8c/images/macbook-mobile.png); } }
   @media (max-width: 400px) {
     #education-video:after {
       width: 180px;
